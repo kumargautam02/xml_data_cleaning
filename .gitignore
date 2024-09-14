@@ -1,3 +1,9 @@
-../test.ipynb
+**/app/test.ipynb
 
-../.pdf
+**/*.pdf
+**/.venv
+
+
+
+# #ignore all the __pycache_files 
+**/__pycache__
